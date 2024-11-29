@@ -1,3 +1,4 @@
+# Author: Petra Grünewald
 # Das ist mein erstes Bash Skript
 
 echo "Skript startet"
